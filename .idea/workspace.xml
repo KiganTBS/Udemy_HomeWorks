@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309fb4c7-df20-4f2d-88a1-1f96c56705a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork16_Collections/MyCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork17_Parse/Main_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork17_Parse/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork18_Collection/Main_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Main_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Main_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/RectColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWorks14_OOP/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWorks14_OOP/Main_14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorks14_OOP/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork14_15_OOP/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorks14_OOP/Main_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork14_15_OOP/Main_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +40,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1oes6CVSuXEydX5RmOOrRR7uM3p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Collections" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/HomeWork20" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +62,7 @@
       <recent name="HomeWork9_OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main_20">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork16_Collections.Main" />
       <module name="Udemy HomeWorks" />
@@ -68,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork12_OOP.Main_12" />
+    <configuration name="Main_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork17_Parse.Main_17" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork12_OOP.*" />
+          <option name="PATTERN" value="HomeWork17_Parse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork13_OOP_Overload.Main_13" />
+    <configuration name="Main_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork18_Collection.Main_18" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork13_OOP_Overload.*" />
+          <option name="PATTERN" value="HomeWork18_Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork14_15_OOP.Main_14" />
+    <configuration name="Main_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork19_Inheritance.Main_19" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork14_15_OOP.*" />
+          <option name="PATTERN" value="HomeWork19_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,28 +115,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork9_OOP.Main_9" />
+    <configuration name="Main_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_20_Inheritance.Main_20" />
       <module name="Udemy HomeWorks" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/HomeWork9_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_20_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main_13" />
-      <item itemvalue="Application.Main_9" />
-      <item itemvalue="Application.Main_12" />
-      <item itemvalue="Application.Main_14" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main_17" />
+      <item itemvalue="Application.Main_18" />
+      <item itemvalue="Application.Main_19" />
+      <item itemvalue="Application.Main_20" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_20" />
+        <item itemvalue="Application.Main_19" />
+        <item itemvalue="Application.Main_18" />
+        <item itemvalue="Application.Main_17" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main_14" />
-        <item itemvalue="Application.Main_13" />
-        <item itemvalue="Application.Main_12" />
-        <item itemvalue="Application.Main_12" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613935412428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="22.02.2021">
+      <created>1614000992590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614000992590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,10 +181,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWorks 21.02.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWorks 21.02.21" />
+    <MESSAGE value="22.02.2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.02.2021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

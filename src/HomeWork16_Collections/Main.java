@@ -12,5 +12,8 @@ public class Main {
         System.out.println(emp.getArray(i));
     }
         System.out.println(emp.getSize());
+
     }
+
+
 }
