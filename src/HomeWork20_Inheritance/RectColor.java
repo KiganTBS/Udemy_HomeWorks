@@ -1,4 +1,4 @@
-package HomeWork_20_Inheritance;
+package HomeWork20_Inheritance;
 
 public final class RectColor extends Rect{ //Данный класс является final, соответственно не может иметь под классов.
     String color;

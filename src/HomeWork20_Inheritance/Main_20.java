@@ -1,4 +1,4 @@
-package HomeWork_20_Inheritance;
+package HomeWork20_Inheritance;
 
 public class Main_20 {
     public static void main(String[] args){

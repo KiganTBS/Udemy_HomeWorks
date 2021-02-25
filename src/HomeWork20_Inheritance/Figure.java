@@ -1,4 +1,4 @@
-package HomeWork_20_Inheritance;
+package HomeWork20_Inheritance;
 
 public abstract class Figure { // Данный класс является абстрактным, соответсвенно вызвать объект - нельзя
     private int a;

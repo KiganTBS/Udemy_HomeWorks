@@ -2,19 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309fb4c7-df20-4f2d-88a1-1f96c56705a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork17_Parse/Main_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork17_Parse/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork18_Collection/Main_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Main_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Main_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/RectColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/CanRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_0_Interface/Main_21_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/CodeWritable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Cookable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Cooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Drivable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Main_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork21_Interface/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork22_Interface/CounterBuh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork22_Interface/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork22_Interface/Main_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork22_Interface/MyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork23_Exceptions/Main_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork24_Random_Str/Main_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork25_Threads/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork10_OOP/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork10_OOP/Main_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork11_OOP/Main_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork11_OOP/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork12_OOP/Main_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork12_OOP/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork13_OOP_Overload/Main_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork13_OOP_Overload/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork14_15_OOP/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork14_15_OOP/Main_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork16_Collections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork16_Collections/MyCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork17_Parse/Main_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork17_Parse/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork18_Collection/Main_18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork19_Inheritance/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork19_Inheritance/BoxWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork19_Inheritance/Main_19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork9_OOP/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork9_OOP/Main_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork_20_Inheritance/Figure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork_20_Inheritance/Main_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork_20_Inheritance/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy HomeWorks/HomeWork_20_Inheritance/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork10_OOP/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork10_OOP/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork10_OOP/Main_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork10_OOP/Main_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork11_OOP/Main_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork11_OOP/Main_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork11_OOP/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork11_OOP/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork12_OOP/Main_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork12_OOP/Main_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork12_OOP/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork12_OOP/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork13_OOP_Overload/Main_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork13_OOP_Overload/Main_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork13_OOP_Overload/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork13_OOP_Overload/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork14_15_OOP/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork14_15_OOP/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork14_15_OOP/Main_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork14_15_OOP/Main_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork16_Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork16_Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork16_Collections/MyCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork16_Collections/MyCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork17_Parse/Main_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork17_Parse/Main_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork17_Parse/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork17_Parse/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork18_Collection/Main_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork18_Collection/Main_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork19_Inheritance/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork19_Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork19_Inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork19_Inheritance/Main_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork19_Inheritance/Main_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork7_Massive/Massive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork7_Massive/Massive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork8_Case/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork8_Case/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork8_Case/Massive2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork8_Case/Massive2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork9_OOP/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork9_OOP/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork9_OOP/Main_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork9_OOP/Main_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork20_Inheritance/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Main_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork20_Inheritance/Main_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork20_Inheritance/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/RectColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork20_Inheritance/RectColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_20_Inheritance/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Block1_Java/HomeWork20_Inheritance/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +87,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +115,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/HomeWork20" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/HomeWork24" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -62,13 +126,13 @@
       <recent name="HomeWork9_OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_20">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork16_Collections.Main" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork25_Threads.Main" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork16_Collections.*" />
+          <option name="PATTERN" value="HomeWork25_Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork17_Parse.Main_17" />
+    <configuration name="Main_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork14_15_OOP.Main_14" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork17_Parse.*" />
+          <option name="PATTERN" value="HomeWork14_15_OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork18_Collection.Main_18" />
+    <configuration name="Main_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork22_Interface.Main_22" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork18_Collection.*" />
+          <option name="PATTERN" value="HomeWork22_Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork19_Inheritance.Main_19" />
+    <configuration name="Main_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork23_Exceptions.Main_23" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork19_Inheritance.*" />
+          <option name="PATTERN" value="HomeWork23_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_20_Inheritance.Main_20" />
+    <configuration name="Main_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork24_Random_Str.Main_24" />
       <module name="Udemy HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_20_Inheritance.*" />
+          <option name="PATTERN" value="HomeWork24_Random_Str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +193,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main_22" />
+      <item itemvalue="Application.Main_23" />
+      <item itemvalue="Application.Main_24" />
+      <item itemvalue="Application.Main_14" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main_17" />
-      <item itemvalue="Application.Main_18" />
-      <item itemvalue="Application.Main_19" />
-      <item itemvalue="Application.Main_20" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_20" />
-        <item itemvalue="Application.Main_19" />
-        <item itemvalue="Application.Main_18" />
-        <item itemvalue="Application.Main_17" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main_14" />
+        <item itemvalue="Application.Main_24" />
+        <item itemvalue="Application.Main_23" />
+        <item itemvalue="Application.Main_22" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614000992590</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="23.02.2021">
+      <created>1614086097925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614086097925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +257,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWorks 21.02.21" />
     <MESSAGE value="22.02.2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.02.2021" />
+    <MESSAGE value="23.02.2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.2021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

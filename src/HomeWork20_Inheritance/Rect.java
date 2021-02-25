@@ -1,4 +1,4 @@
-package HomeWork_20_Inheritance;
+package HomeWork20_Inheritance;
 
 public class Rect extends Figure{
     public Rect(int a, int b) {

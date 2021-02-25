@@ -1,7 +1,6 @@
 package HomeWork18_Collection;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main_18 {
     public static void main(String[] args) {

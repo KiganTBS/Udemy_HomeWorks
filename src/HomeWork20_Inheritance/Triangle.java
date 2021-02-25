@@ -1,4 +1,4 @@
-package HomeWork_20_Inheritance;
+package HomeWork20_Inheritance;
 
 public class Triangle extends Figure{
     private int c;
